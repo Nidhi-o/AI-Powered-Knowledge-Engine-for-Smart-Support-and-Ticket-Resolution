@@ -1,4 +1,4 @@
-RAG-based Ticket Resolution System
+#**RAG-based Ticket Resolution System**
 
 This project is a complete ticket resolution system powered by a Retrieval-Augmented Generation (RAG) model. It uses Streamlit for the user interface, FAISS for vector search, Sentence Transformers for embeddings, and the Groq API for fast language model inference.
 
