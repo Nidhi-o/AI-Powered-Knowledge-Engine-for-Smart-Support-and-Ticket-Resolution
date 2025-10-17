@@ -1,0 +1,16 @@
+venv/
+*.venv
+.conda/
+
+.env
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.idea/
+.vscode/
+faiss_index.bin
+corpus_data.pkl
+.streamlit/
+credentials.json.env
+credentials.json

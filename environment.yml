@@ -1,0 +1,23 @@
+name: ticket-resolver
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pytorch
+  - torchvision
+  - faiss-cpu
+  - jpeg
+  - httpx<0.26.0 
+  - pandas=2.2.1
+  - streamlit=1.33.0
+  - python-dotenv=1.0.1
+  - gspread=5.12.4
+  - oauth2client=4.1.3
+  - fpdf2=2.7.8
+  - openpyxl=3.1.2
+  - plotly=5.19.0
+  - pip:
+      - sentence-transformers==2.7.0
+      - groq==0.5.0
