@@ -13,7 +13,7 @@ from email_alert_handler import EmailAlertHandler
 
 # --- Page Configuration ---
 st.set_page_config(
-    page_title="Customer Support RAG Bot",
+    page_title="AI Powered Knowledge Engine for Smart Support and Ticket Resolution",
     page_icon="🤖",
     layout="wide"
 )
@@ -152,7 +152,7 @@ except ValueError as e:
     st.error(f"**Fatal Error:** {e}")
     st.stop()
 
-st.title("AI-Powered Ticket Resolution System 🤖")
+st.title("AI Powered Knowledge Engine for Smart Support and Ticket Resolution 🤖")
 
 # --- UI Tabs ---
 tab1, tab2, tab3 = st.tabs(["💬 Chatbot", "📊 Analytics", "📧 Email Alerts"])
