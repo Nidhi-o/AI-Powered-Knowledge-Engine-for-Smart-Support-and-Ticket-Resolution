@@ -16,31 +16,21 @@ It leverages **Streamlit** for the interface, **FAISS** for vector search, **Sen
 
 ## ⚙️ Setup Instructions
 
+```bash
+https://github.com/Nidhi-o/AI-Powered-Knowledge-Engine-for-Smart-Support-and-Ticket-Resolution.git
+cd AI-Powered-Knowledge-Engine-for-Smart-Support-and-Ticket-Resolution
+```
 ### Create a Virtual Environment
 
 It’s recommended to isolate dependencies using a virtual environment.
 
 ```bash
-# Create the virtual environment
-python -m venv venv
+# Create the environment (Python 3.10+ is recommended)
+conda create --name ticket_res_env python=3.10 -y
 
 # Activate the environment
-# On Windows
-venv\Scripts\activate
-# On macOS/Linux
-source venv/bin/activate
+conda activate ticket_res_env
 ```
-
----
-
-### Install Dependencies
-
-Install all required Python packages:
-
-```bash
-pip install -r requirements.txt
-```
-
 
 ---
 
