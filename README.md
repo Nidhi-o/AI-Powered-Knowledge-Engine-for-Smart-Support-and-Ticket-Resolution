@@ -29,10 +29,10 @@ It’s recommended to isolate dependencies using a virtual environment.
 
 ```bash
 # Create the environment (Python 3.10+ is recommended)
-conda create --name ticket_res_env python=3.10 -y
+conda env create -f environment.yml
 
 # Activate the environment
-conda activate ticket_res_env
+conda activate ticket-resolver
 ```
 
 ---
