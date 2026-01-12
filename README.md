@@ -16,7 +16,7 @@ It leverages **Streamlit** for the interface, **FAISS** for vector search, **Sen
 
 ## ⚙️ Setup Instructions
 
-###**Creating clone**
+### **Creating clone**
 
 ```bash
 https://github.com/Nidhi-o/AI-Powered-Knowledge-Engine-for-Smart-Support-and-Ticket-Resolution.git
