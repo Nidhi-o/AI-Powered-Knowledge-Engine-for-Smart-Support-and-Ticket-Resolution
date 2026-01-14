@@ -3,6 +3,7 @@
 
 A complete **ticket resolution system** powered by a **Retrieval-Augmented Generation (RAG)** model.   
 [**Try the Live Demo here!**](https://huggingface.co/spaces/nidhii-oo/ticketresolution)
+
 It leverages **Streamlit** for the interface, **FAISS** for vector search, **Sentence Transformers** for embeddings, and the **Groq API** for ultra-fast LLM inference.
 
 ---
