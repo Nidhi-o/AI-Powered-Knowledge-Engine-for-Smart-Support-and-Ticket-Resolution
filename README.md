@@ -1,3 +1,5 @@
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/nidhii-oo/ticketresolution)
+
 # 🤖 AI-Powered Knowledge Engine for Smart Support and Ticket Resolution
 
 A complete **ticket resolution system** powered by a **Retrieval-Augmented Generation (RAG)** model.  
