@@ -1,7 +1,8 @@
 # 🤖 AI-Powered Knowledge Engine for Smart Support and Ticket Resolution
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/nidhii-oo/ticketresolution)
 
-A complete **ticket resolution system** powered by a **Retrieval-Augmented Generation (RAG)** model.  
+A complete **ticket resolution system** powered by a **Retrieval-Augmented Generation (RAG)** model.   
+[**Try the Live Demo here!**]([https://nidhii-oo-ticketresolution.hf.space])
 It leverages **Streamlit** for the interface, **FAISS** for vector search, **Sentence Transformers** for embeddings, and the **Groq API** for ultra-fast LLM inference.
 
 ---
